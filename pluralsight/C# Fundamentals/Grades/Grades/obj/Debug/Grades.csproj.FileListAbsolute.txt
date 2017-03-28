@@ -1,0 +1,6 @@
+Z:\Dev Tools\Work\Exercises\CSharp\pluralsight\C# Fundamentals\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+Z:\Dev Tools\Work\Exercises\CSharp\pluralsight\C# Fundamentals\Grades\Grades\bin\Debug\Grades.exe.config
+Z:\Dev Tools\Work\Exercises\CSharp\pluralsight\C# Fundamentals\Grades\Grades\bin\Debug\Grades.exe
+Z:\Dev Tools\Work\Exercises\CSharp\pluralsight\C# Fundamentals\Grades\Grades\bin\Debug\Grades.pdb
+Z:\Dev Tools\Work\Exercises\CSharp\pluralsight\C# Fundamentals\Grades\Grades\obj\Debug\Grades.exe
+Z:\Dev Tools\Work\Exercises\CSharp\pluralsight\C# Fundamentals\Grades\Grades\obj\Debug\Grades.pdb
